@@ -1,5 +1,9 @@
 # Docker
 Docker is a containerization tool. 
+----------------------------------------------
+## Installation 
+[Docker Desktop](https://docs.docker.com/desktop/install/windows-install/)
+----------------------------------------------
 
 Docker is a tool that lets you package, distribute, and run applications in isolated environments called *containers*. These containers include everything needed for an application to run, like code, libraries, and settings, which means they work the same no matter where they're deployed. This helps developers ensure that their software behaves consistently across different systems.
 
